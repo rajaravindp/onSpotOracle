@@ -15,6 +15,12 @@ This application is capable of listening to user speech, transcribe it in real t
 All other requirements can be found installed using the environments.env file using: <br>
 *conda env create -f environment.yml*
 
+**Setup**
+Configuring Llama-cpp and CMake is a pain. I shall upload a seperate tutorial on configuration.
+- Install the required packages
+-  Download model params and metadata from HuggingFace and place it into a separate /models dir. 
+-  Run the script
+
 **Note**
 - Ensure your microphone is properly connected and configured.
 - The application runs continuously until interrupted
