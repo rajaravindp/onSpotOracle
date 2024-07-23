@@ -20,7 +20,9 @@ All other requirements can be found installed using the environments.env file us
 **Setup**
 Configuring Llama-cpp and CMake is a pain. I shall upload a seperate tutorial on configuration.
 - Install the required packages
--  Download model params and metadata from HuggingFace and place it into a separate /models dir. 
+-  Download model params and metadata from HuggingFace and place it into a separate /models dir.
+  https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q5_K_S.gguf
+  Or any other model of your choosing. 
 -  Run the script
 
 **Note**
