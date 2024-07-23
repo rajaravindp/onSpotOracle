@@ -1,7 +1,7 @@
 # Real Time Speech-to-Text-to-Text AI Assistant
 
-**Combine speech recognition with AI-powered text generation**
-This application is capable of listening to user speech, transcribe it in real time and generate an AI response. 
+**Combine speech recognition with AI-powered text generation** <br>
+This application is capable of listening to user speech, transcribe it in real time and generate an AI response. <br>
 ![image](https://github.com/user-attachments/assets/99d83bca-05cc-4a35-b9ce-3597d8d59eee)
 
 **Features**
